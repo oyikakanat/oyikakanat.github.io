@@ -139,7 +139,7 @@ text-decoration: none;}
 .title {
 	width:60%;
 	height:110px;
-    background-image:url(img/title2.png);
+    background-image:url(title2.png);
 	background-position: bottom;
 	background-repeat: no-repeat;
 	background-size:100%;
@@ -666,7 +666,7 @@ li:last-child {
 	display: inline-block;
 	width:25%;
 	height: 55px;
-    background-image:url(img/title2.png);
+    background-image:url(title2.png);
 	background-position: bottom;
 	background-repeat: no-repeat;
 	background-size:contain;
